@@ -1,1 +1,106 @@
-{"name":"Goy","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Yogi Kautsar - curious","headerTaglineThree":"developer","headerTaglineFour":" based in Bogor, Indonesia.","showCursor":true,"showBlog":false,"darkMode":true,"showResume":false,"socials":[{"id":"1","title":"Github","link":"https://github.com/yogikautsa112"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/alndta/"},{"id":"3","title":"Instagram","link":"https://www.instagram.com/alndta_/"},{"id":"5","title":"Email","link":"yogikautsa@gmail.com"}],"projects":[{"id":"1","title":"Library Web ","description":"Web","imageSrc":"","url":"https://github.com/yogikautsa112/react-library"},{"id":"2","title":"Ticket Apps","description":"Mobile Apps","imageSrc":"","url":"https://github.com/yogikautsa112/ticket-app-flutter"},{"id":"3","title":"Bot SIPA","description":"Machine Learning","imageSrc":"","url":"https://github.com/yogikautsa112/SIPA-Chat"}],"services":[{"id":"1","title":"Backend Developer","description":""},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."}],"aboutpara":"I am a highly motivated and detail-oriented student with a strong focus on web development, aspiring to build a successful career as a Full Stack Web Developer. Known for my hardworking nature, discipline, and dedication, I consistently deliver high-quality results in every task I undertake. With experience working both as a team member and a team leader, I excel in fostering collaboration, contributing effectively to group projects, and ensuring smooth communication within teams.\n\nMy technical expertise includes proficiency in Laravel for backend development, Livewire for building dynamic interfaces, and React for creating modern, interactive front-end applications. I am passionate about leveraging these technologies to build scalable, user-friendly, and innovative web solutions. Whether working independently or as part of a team, I am committed to continuous learning and staying updated with the latest industry trends to enhance my skills and deliver exceptional results.","resume":{"tagline":"👋  I'm a software engineer","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"SMK Wikrama Bogor","universityDate":"2023-2026","universityPara":"Now im a student in Wikrama Vocational HighSchool 11th Grade"},"languages":["Javascript","HTML5","CSS","Python","Go","Dart","Flutter","PHP"],"frameworks":["React","Typescript","NodeJs","Next.Js ","Laravel","Lumen","Django"],"others":["Figma","AWS","Notion"]}}
+{
+  "name": "Goy",
+  "headerTaglineOne": "Hello 👋",
+  "headerTaglineTwo": "I'm Yogi Kautsar - curious",
+  "headerTaglineThree": "developer",
+  "headerTaglineFour": " based in Bogor, Indonesia.",
+  "showCursor": true,
+  "showBlog": false,
+  "darkMode": true,
+  "showResume": false,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/yogikautsa112"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/alndta/"
+    },
+    {
+      "id": "3",
+      "title": "Instagram",
+      "link": "https://www.instagram.com/alndta_/"
+    },
+    { "id": "5", "title": "Email", "link": "yogikautsa@gmail.com" }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Library Web ",
+      "description": "Web",
+      "imageSrc": "https://images.unsplash.com/photo-1735825764460-c5dec05d6253?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://github.com/yogikautsa112/react-library"
+    },
+    {
+      "id": "2",
+      "title": "Ticket Apps",
+      "description": "Mobile Apps",
+      "imageSrc": "https://plus.unsplash.com/premium_photo-1678565999588-08fdd0b1410b?q=80&w=1988&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://github.com/yogikautsa112/ticket-app-flutter"
+    },
+    {
+      "id": "3",
+      "title": "Bot SIPA",
+      "description": "Machine Learning",
+      "imageSrc": "https://images.unsplash.com/photo-1649451844813-3130d6f42f8a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "url": "https://github.com/yogikautsa112/SIPA-Chat"
+    }
+  ],
+  "services": [
+    { "id": "1", "title": "Backend Developer", "description": "" },
+    {
+      "id": "2",
+      "title": "Branding",
+      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+    }
+  ],
+  "aboutpara": "I am a highly motivated and detail-oriented student with a strong focus on web development, aspiring to build a successful career as a Full Stack Web Developer. Known for my hardworking nature, discipline, and dedication, I consistently deliver high-quality results in every task I undertake. With experience working both as a team member and a team leader, I excel in fostering collaboration, contributing effectively to group projects, and ensuring smooth communication within teams.\n\nMy technical expertise includes proficiency in Laravel for backend development, Livewire for building dynamic interfaces, and React for creating modern, interactive front-end applications. I am passionate about leveraging these technologies to build scalable, user-friendly, and innovative web solutions. Whether working independently or as part of a team, I am committed to continuous learning and staying updated with the latest industry trends to enhance my skills and deliver exceptional results.",
+  "resume": {
+    "tagline": "👋  I'm a software engineer",
+    "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "March 2022 - Present",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Bullet One, Bullet Two"
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "July 2020 - March 2022",
+        "type": "Full Time",
+        "position": "Frontend Engineer at X",
+        "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+      }
+    ],
+    "education": {
+      "universityName": "SMK Wikrama Bogor",
+      "universityDate": "2023-2026",
+      "universityPara": "Now im a student in Wikrama Vocational HighSchool 11th Grade"
+    },
+    "languages": [
+      "Javascript",
+      "HTML5",
+      "CSS",
+      "Python",
+      "Go",
+      "Dart",
+      "Flutter",
+      "PHP"
+    ],
+    "frameworks": [
+      "React",
+      "Typescript",
+      "NodeJs",
+      "Next.Js ",
+      "Laravel",
+      "Lumen",
+      "Django"
+    ],
+    "others": ["Figma", "AWS", "Notion"]
+  }
+}
